@@ -18,5 +18,5 @@ A simple command-line task manager built with **Go**. It allows users to **add, 
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository  
 ```sh
-git clone https://github.com/yourusername/task-cli.git
+git clone https://github.com/WINDARK-coder/task-cli
 cd task-cli
