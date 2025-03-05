@@ -1,6 +1,6 @@
 # Task Tracker CLI 🚀  
 
-**Project URL:** [https://github.com/WINDARK-coder/task-cli]
+**Project URL:** [https://github.com/WINDARK-coder/task-cli](https://github.com/WINDARK-coder/task-cli)
 A simple command-line task manager built with **Go**. It allows users to **add, update, delete, mark, list, search, and undo** tasks, with task statuses and due dates.
 
 ---
