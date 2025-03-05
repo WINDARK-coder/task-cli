@@ -6,7 +6,8 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"task-cli/task"
+
+	"github.com/WINDARK-coder/task-cli/task"
 )
 
 func main() {
